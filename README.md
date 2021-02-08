@@ -2,4 +2,4 @@
 Personal Codeplug DE SY2CRI
 
 
-Change the RadioID and you will be fine.. !
+Change the RadioID / APRS Settings and you will be fine.. !
