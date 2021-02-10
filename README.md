@@ -7,7 +7,7 @@ all(?) Greek repeaters<br>
 Digital contact list until 11/02/2021<br>
 By default it has:
 
-APRS Digital on PTT and on Auto interval 120s with Roaming setting enabled.<br>
+APRS Digital on PTT and on Auto interval 195s with Roaming setting enabled.<br>
 Record on<br>
 Digital monitor on
 
