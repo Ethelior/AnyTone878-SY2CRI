@@ -1,15 +1,16 @@
 # Anytone-ATD878
 Personal Codeplug DE SY2CRI
 
-It includes:
+It includes:<br><br>
 
-all(?) Greek repeaters<br>
-Digital contact list until 11/02/2021<br>
-By default it has:
+1. all(?) Greek repeaters<br>
+2. Digital contact list until 11/02/2021<br>
 
-APRS Digital on PTT and on Auto interval 195s with Roaming setting enabled.<br>
-Record on<br>
-Digital monitor on
+By default it has:<br>
+
+1. APRS Digital on PTT and on Auto interval 195s with Roaming setting enabled.<br>
+2. Record on<br>
+3. Digital monitor on<br><br>
 
 Change the RadioID / APRS Settings and you will be fine.. ! 
 
