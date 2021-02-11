@@ -1,5 +1,5 @@
 # Anytone-ATD878
-Personal Codeplug DE SY2CRI
+Personal Codeplug DE SY2CRI based on SV1EDZ codeplug.
 
 It includes:<br><br>
 
