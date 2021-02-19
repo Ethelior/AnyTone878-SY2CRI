@@ -16,3 +16,6 @@ Change the RadioID / APRS Settings and you will be fine.. !
 
 
 <b><u>Feel free to change any settings to your liking and if you find any error please don't hesitate to point it out.</b></u>
+
+
+<b><u>Updated the repeaters and renamed the ones RSF-HELLAS has revoked the lisences.</b></u>
