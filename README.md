@@ -1,4 +1,4 @@
-# Anytone-ATD878
+# Anytone878-SY2CRI
 
 <b><u>Updated the repeaters and renamed the ones RSF-HELLAS has revoked the lisences.</b></u>
 
